@@ -277,16 +277,16 @@ Main components
   z-index: 2;
 }
 .cd-scrolling-bg.cd-color-1 {
-  background-color: #3d3536;
+  background-color: #0B0512;
   color: #a6989a;
 }
 .cd-scrolling-bg.cd-color-2 {
-  background-color: #30616C;
+  background-color: #5E4D8B;
   color: #a6989a;
 }
 .cd-scrolling-bg.cd-color-3 {
-  background-color: #9E9F82;
-  color: #3d3536;
+  background-color: #421F56;
+  color: #a6989a;
 }
 @media only screen and (min-width: 768px) {
   .cd-scrolling-bg {
